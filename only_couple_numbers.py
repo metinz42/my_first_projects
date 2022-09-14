@@ -1,43 +1,6 @@
 import time
 import webbrowser
 
-# i = 0
-# toplam = 0
-# sayi = int(input("Sayıyı giriniz: "))
-# tek_sayılar = input("tek sayıların toplamını istiyorsanız evet yazın: ")
-
-
-# if (tek_sayılar=="evet"):
-#      print("oluşturuluyor")
-#      while (i <= 99):
-#       i += 1
-#      if (i%2==1):
-#         continue
-               
-# toplam = toplam + i
-# print(f"1-100 arası tek sayıların toplamı:{toplam}")
-
-
-# cift_sayılar = input("çift sayıların toplamını istiyorsanız evet yazın : ")
-
-# if (cift_sayılar=="evet"):
-#      while(i <= sayi ):
-#          i += 1
-#          if (i%2 == 0):
-#              continue
-#          toplam += i
-#          time.sleep(2)
-# print(f"çift sayıların toplamı{toplam}")
-# if (cift_sayılar==""):
-#      print("çift sayılar toplanmadı!")
-
-# print("5 saniye içinde kapancak!")
-# time.sleep(3)
-# print("çıkış yapılıyor...")
-# time.sleep(1)
-# print("GÜLE GÜLE")
-# time.sleep(1)
-
 
 print("programın amacı ;".capitalize()) 
 print("ilk girdiğiniz sayıdan son girdiğiniz sayı arağılığındaki tek veya çift sayıları toplamak (ilk girdiğiniz sayı dahil değil)!".capitalize())
